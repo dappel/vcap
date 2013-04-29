@@ -89,7 +89,7 @@ if [ -z "$CLOUDFOUNDRY_HOME" ]; then
 fi
 
 if [ -z "$CLOUDFOUNDRY_DOMAIN" ]; then
-  CLOUDFOUNDRY_DOMAIN=vcap.me
+  CLOUDFOUNDRY_DOMAIN=dait.at
 fi
 
 if [ -z "$VCAP_REPO_BASE" ]; then
